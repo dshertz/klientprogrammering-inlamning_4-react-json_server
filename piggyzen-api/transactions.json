@@ -1,0 +1,545 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "datum": "2023-01-31",
+      "mottagare": "LIDL 212 / JONKOPING E,JONKOPING,SE",
+      "belopp": "-641,85",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 2,
+      "datum": "2023-01-31",
+      "mottagare": "APOTEKSGRUPPEN,JONKOPING,SE",
+      "belopp": "-26,50",
+      "underkategori": "Apotek",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 3,
+      "datum": "2023-02-01",
+      "mottagare": "TEMPO LILJEHOLMEN,JONKOPING,SE",
+      "belopp": "-211,35",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 4,
+      "datum": "2023-02-02",
+      "mottagare": "ICA NARA JONKOPING,JONKOPING,SE",
+      "belopp": "-755,43",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 5,
+      "datum": "2023-02-04",
+      "mottagare": "Rekogruppen Sverige AB,Jonkoping,SE",
+      "belopp": "-549,00",
+      "underkategori": "Förbrukningsvaror",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 6,
+      "datum": "2023-02-04",
+      "mottagare": "TEMPO LILJEHOLMEN,JONKOPING,SE",
+      "belopp": "-558,63",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 7,
+      "datum": "2023-02-07",
+      "mottagare": "Ebba",
+      "belopp": "500,00",
+      "underkategori": "Ebba Buffertkonto",
+      "huvudkategori": "Transaktioner"
+    },
+    {
+      "id": 8,
+      "datum": "2023-02-07",
+      "mottagare": "WETTERHALSAN,JONKOPING,SE",
+      "belopp": "-250,00",
+      "underkategori": "Sjukvård",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 9,
+      "datum": "2023-02-07",
+      "mottagare": "TEMPO LILJEHOLMEN,JONKOPING,SE",
+      "belopp": "-287,06",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 10,
+      "datum": "2023-02-08",
+      "mottagare": "TEMPO LILJEHOLMEN,JONKOPING,SE",
+      "belopp": "-831,17",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 11,
+      "datum": "2023-02-09",
+      "mottagare": "TEMPO LILJEHOLMEN,JONKOPING,SE",
+      "belopp": "-517,05",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 12,
+      "datum": "2023-02-09",
+      "mottagare": "DIREKTEN TOBAKSHORNAN,JONKOPING,SE",
+      "belopp": "-55,00",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 13,
+      "datum": "2023-02-11",
+      "mottagare": "Ebba",
+      "belopp": "1000,00",
+      "underkategori": "Ebba Buffertkonto",
+      "huvudkategori": "Transaktioner"
+    },
+    {
+      "id": 14,
+      "datum": "2023-02-10",
+      "mottagare": "TEMPO LILJEHOLMEN,JONKOPING,SE",
+      "belopp": "-408,66",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 15,
+      "datum": "2023-02-11",
+      "mottagare": "TEMPO LILJEHOLMEN,JONKOPING,SE",
+      "belopp": "-257,25",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 16,
+      "datum": "2023-02-13",
+      "mottagare": "Ebba",
+      "belopp": "6000,00",
+      "underkategori": "Övriga inkomster",
+      "huvudkategori": "Inkomster"
+    },
+    {
+      "id": 17,
+      "datum": "2023-02-12",
+      "mottagare": "ICA NARA JONKOPING,JONKOPING,SE",
+      "belopp": "-392,55",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 18,
+      "datum": "2023-02-12",
+      "mottagare": "ICA NARA JONKOPING,JONKOPING,SE",
+      "belopp": "-16,95",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 19,
+      "datum": "2023-02-13",
+      "mottagare": "LIDL 212 / JONKOPING E,JONKOPING,SE",
+      "belopp": "-652,83",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 20,
+      "datum": "2023-02-15",
+      "mottagare": "Formelbok",
+      "belopp": "70,00",
+      "underkategori": "Övriga inkomster",
+      "huvudkategori": "Inkomster"
+    },
+    {
+      "id": 21,
+      "datum": "2023-02-14",
+      "mottagare": "TEMPO LILJEHOLMEN,JONKOPING,SE",
+      "belopp": "-308,30",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 22,
+      "datum": "2023-02-15",
+      "mottagare": "Systembolaget,JOeNKOePING,SE",
+      "belopp": "-366,00",
+      "underkategori": "Systembolaget",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 23,
+      "datum": "2023-02-15",
+      "mottagare": "APOTEKSGRUPPEN,JONKOPING,SE",
+      "belopp": "-69,00",
+      "underkategori": "Apotek",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 24,
+      "datum": "2023-02-16",
+      "mottagare": "LIDL 212 / JONKOPING E,JONKOPING,SE",
+      "belopp": "-885,54",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 25,
+      "datum": "2023-02-15",
+      "mottagare": "Kaffeteket,Jonkoping,SE",
+      "belopp": "-120,00",
+      "underkategori": "Äta ute",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 26,
+      "datum": "2023-02-17",
+      "mottagare": "WILLYS EKSJO,EKSJO,SE",
+      "belopp": "-1173,35",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 27,
+      "datum": "2023-02-17",
+      "mottagare": "TEMPO LILJEHOLMEN,JONKOPING,SE",
+      "belopp": "-397,72",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 28,
+      "datum": "2023-02-18",
+      "mottagare": "WILLYS EKSJO,EKSJO,SE",
+      "belopp": "-279,00",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 29,
+      "datum": "2023-02-21",
+      "mottagare": "TEMPO LILJEHOLMEN,JONKOPING,SE",
+      "belopp": "-453,96",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 30,
+      "datum": "2023-02-21",
+      "mottagare": "WETTERHALSAN,JONKOPING,SE",
+      "belopp": "-250,00",
+      "underkategori": "Sjukvård",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 31,
+      "datum": "2023-02-23",
+      "mottagare": "9000.00.000.31",
+      "belopp": "-522,00",
+      "underkategori": "Ebba Privatkonto",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 32,
+      "datum": "2023-02-24",
+      "mottagare": "CSN",
+      "belopp": "17340,00",
+      "underkategori": "CSN",
+      "huvudkategori": "Inkomster"
+    },
+    {
+      "id": 33,
+      "datum": "2023-02-24",
+      "mottagare": "Bolån",
+      "belopp": "-7471,00",
+      "underkategori": "Bolån",
+      "huvudkategori": "Bostad"
+    },
+    {
+      "id": 34,
+      "datum": "2023-02-24",
+      "mottagare": "Ebba",
+      "belopp": "1829,00",
+      "underkategori": "Ebba Lön",
+      "huvudkategori": "Inkomster"
+    },
+    {
+      "id": 35,
+      "datum": "2023-02-24",
+      "mottagare": "Fk",
+      "belopp": "11358,00",
+      "underkategori": "Ebba Försäkringskassan",
+      "huvudkategori": "Inkomster"
+    },
+    {
+      "id": 36,
+      "datum": "2023-02-24",
+      "mottagare": "9000.00.000.98",
+      "belopp": "-1600,00",
+      "underkategori": "Ebba 10%",
+      "huvudkategori": "Sparande"
+    },
+    {
+      "id": 37,
+      "datum": "2023-02-24",
+      "mottagare": "9000.00.000.39",
+      "belopp": "-1600,00",
+      "underkategori": "Daniel 10%",
+      "huvudkategori": "Sparande"
+    },
+    {
+      "id": 38,
+      "datum": "2023-02-24",
+      "mottagare": "9000.00.000.08",
+      "belopp": "-4000,00",
+      "underkategori": "Ebba Buffertkonto",
+      "huvudkategori": "Transaktioner"
+    },
+    {
+      "id": 39,
+      "datum": "2023-02-24",
+      "mottagare": "9000.00.000.41",
+      "belopp": "-4000,00",
+      "underkategori": "Daniel Buffertkonto",
+      "huvudkategori": "Transaktioner"
+    },
+    {
+      "id": 40,
+      "datum": "2023-02-24",
+      "mottagare": "CENTRALA STUDIESTÖDSNÄMNDEN",
+      "belopp": "-2042,00",
+      "underkategori": "CSN återbetalning",
+      "huvudkategori": "Övrigt - Fasta"
+    },
+    {
+      "id": 41,
+      "datum": "2023-02-24",
+      "mottagare": "TEMPO LILJEHOLMEN,JONKOPING,SE",
+      "belopp": "-452,82",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 42,
+      "datum": "2023-02-25",
+      "mottagare": "9000.00.000.31",
+      "belopp": "-475,00",
+      "underkategori": "Ebba Privatkonto",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 43,
+      "datum": "2023-02-26",
+      "mottagare": "9000.00.000.31",
+      "belopp": "-289,00",
+      "underkategori": "Ebba Privatkonto",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 44,
+      "datum": "2023-02-26",
+      "mottagare": "9000.00.000.31",
+      "belopp": "-444,00",
+      "underkategori": "Ebba Privatkonto",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 45,
+      "datum": "2023-02-26",
+      "mottagare": "9000.00.000.31",
+      "belopp": "-52,00",
+      "underkategori": "Ebba Privatkonto",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 46,
+      "datum": "2023-02-26",
+      "mottagare": "9000.00.000.31",
+      "belopp": "-164,00",
+      "underkategori": "Ebba Privatkonto",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 47,
+      "datum": "2023-02-26",
+      "mottagare": "9000.00.000.31",
+      "belopp": "-363,00",
+      "underkategori": "Ebba Privatkonto",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 48,
+      "datum": "2023-02-25",
+      "mottagare": "ICA NARA JONKOPING,JONKOPING,SE",
+      "belopp": "-7,49",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 49,
+      "datum": "2023-02-25",
+      "mottagare": "ICA NARA JONKOPING,JONKOPING,SE",
+      "belopp": "-513,30",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 50,
+      "datum": "2023-02-27",
+      "mottagare": "9000.00.000.31",
+      "belopp": "-471,00",
+      "underkategori": "Ebba Privatkonto",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 51,
+      "datum": "2023-02-27",
+      "mottagare": "9000.00.000.31",
+      "belopp": "-129,00",
+      "underkategori": "Ebba Privatkonto",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 52,
+      "datum": "2023-02-27",
+      "mottagare": "9000.00.000.31",
+      "belopp": "-130,00",
+      "underkategori": "Ebba Privatkonto",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 53,
+      "datum": "2023-02-26",
+      "mottagare": "Reitan 4015203,Joenkoeping,SE",
+      "belopp": "-352,00",
+      "underkategori": "Äta ute",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 54,
+      "datum": "2023-02-26",
+      "mottagare": "LEKIA ASECS,Jonkoping,SE",
+      "belopp": "-374,25",
+      "underkategori": "Shopping",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 55,
+      "datum": "2023-02-26",
+      "mottagare": "LEKIA ASECS,Jonkoping,SE",
+      "belopp": "-59,85",
+      "underkategori": "Shopping",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 56,
+      "datum": "2023-02-28",
+      "mottagare": "iCloud",
+      "belopp": "-89,00",
+      "underkategori": "Abonnemang",
+      "huvudkategori": "Övrigt - Fasta"
+    },
+    {
+      "id": 57,
+      "datum": "2023-02-28",
+      "mottagare": "Livs",
+      "belopp": "-168,00",
+      "underkategori": "Fackavgift",
+      "huvudkategori": "Övrigt - Fasta"
+    },
+    {
+      "id": 58,
+      "datum": "2023-02-28",
+      "mottagare": "FURSTEN BRF",
+      "belopp": "-2716,00",
+      "underkategori": "Avgift",
+      "huvudkategori": "Bostad"
+    },
+    {
+      "id": 59,
+      "datum": "2023-02-28",
+      "mottagare": "Infrastrukturavgift , Singel",
+      "belopp": "-10,00",
+      "underkategori": "Övrigt",
+      "huvudkategori": "Bilen"
+    },
+    {
+      "id": 60,
+      "datum": "2023-02-28",
+      "mottagare": "JÖNKÖPINGS KOMMUN",
+      "belopp": "-200,00",
+      "underkategori": "Parkering",
+      "huvudkategori": "Bilen"
+    },
+    {
+      "id": 61,
+      "datum": "2023-02-28",
+      "mottagare": "Telia Sverige AB",
+      "belopp": "-99,00",
+      "underkategori": "Bredband",
+      "huvudkategori": "Bostad"
+    },
+    {
+      "id": 62,
+      "datum": "2023-02-28",
+      "mottagare": "Jönköping Energi AB",
+      "belopp": "-925,00",
+      "underkategori": "El",
+      "huvudkategori": "Bostad"
+    },
+    {
+      "id": 63,
+      "datum": "2023-02-28",
+      "mottagare": "SVENSKA JOURNALISTFÖRBUNDET",
+      "belopp": "-232,00",
+      "underkategori": "Fackavgift",
+      "huvudkategori": "Övrigt - Fasta"
+    },
+    {
+      "id": 64,
+      "datum": "2023-02-28",
+      "mottagare": "Region Jönköpings Län OCR",
+      "belopp": "-100,00",
+      "underkategori": "Sjukvård",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 65,
+      "datum": "2023-02-27",
+      "mottagare": "TEMPO LILJEHOLMEN,JONKOPING,SE",
+      "belopp": "-331,15",
+      "underkategori": "Livsmedel mm",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "id": 66,
+      "datum": "2023-02-28",
+      "mottagare": "Systembolaget,JOeNKOePING,SE",
+      "belopp": "-204,00",
+      "underkategori": "Systembolaget",
+      "huvudkategori": "Övrigt - Rörliga"
+    },
+    {
+      "datum": "2023-01-31",
+      "mottagare": "APOTEKSGRUPPEN,JONKOPING,SE",
+      "belopp": "-26,50",
+      "underkategori": "Apotek",
+      "huvudkategori": "Övrigt - Rörliga",
+      "id": 68
+    },
+    {
+      "date": "2023-01-31",
+      "description": "APOTEKSGRUPPEN,JONKOPING,SE",
+      "amount": "-26,50"
+    }
+  ]
+}

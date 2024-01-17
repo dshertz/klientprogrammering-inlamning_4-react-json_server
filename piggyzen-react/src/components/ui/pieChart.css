@@ -1,0 +1,64 @@
+/* (A) PIE CHART */
+.donut {
+    /* (A1) CIRCLE */
+    width: 30vw;
+    height: 30vw;
+    border-radius: 50%;
+}
+
+/* (B) DONUT "CONVERSION" */
+/* (B1) SMALLER CIRCLE */
+.hole {
+    width: 18vw;
+    height: 18vw;
+    border-radius: 50%;
+    background: #212338;
+}
+
+/* (B2) "CONVERT PIE TO DONUT" - CENTER SMALLER CIRCLE */
+.donut {
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#donut-1 {
+    /* (A2) SEGMENTS */
+    background: conic-gradient(#3C3F50 0deg 80deg,
+            #F6CD44 81deg
+            /* 190deg */
+            , #FF4192
+            /* 190deg */
+            360deg);
+}
+
+#donut-2 {
+    /* (A2) SEGMENTS */
+    background: conic-gradient(#3C3F50 0deg 80deg,
+            #F9F047 80deg
+            /* 190deg */
+            , #23DA50
+            /* 190deg */
+            360deg);
+}
+
+#donut-3 {
+    /* (A2) SEGMENTS */
+    background: conic-gradient(#3C3F50 0deg 80deg,
+            #FF6FD8 80deg
+            /* 190deg */
+            , #4519C3
+            /* 190deg */
+            360deg);
+}
+
+#donut-4 {
+    /* (A2) SEGMENTS */
+    background: conic-gradient(#3C3F50 0deg 80deg,
+            #2AF598 80deg
+            /* 190deg */
+            , #01A3F7
+            /* 190deg */
+            360deg);
+}

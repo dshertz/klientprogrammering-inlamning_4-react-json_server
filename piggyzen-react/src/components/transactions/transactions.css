@@ -1,0 +1,106 @@
+main {
+    margin-top: 4rem;
+}
+
+main article section h2 {
+    text-align: center;
+    margin: 1rem;
+}
+
+.container {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.transaction-container {
+    padding: 0.5rem;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+    background-color: #3C3F50;
+    gap: 0.5rem;
+    display: grid;
+    grid-template-columns: 4rem auto 4rem;
+    grid-template-rows: repeat(2, 2rem);
+    grid-template-areas:
+        'ikon mottagare belopp'
+        'ikon kategori kategori';
+
+}
+
+.transaction-container p {
+    overflow: hidden;
+    color: #F1F1F2;
+    white-space: nowrap;
+    text-overflow: clip;
+}
+
+
+.datum {
+    color: #8DC6C6;
+    background: #212338;
+    grid-area: datum;
+}
+
+.mottagare {
+    font-weight: bold;
+    grid-area: mottagare;
+}
+
+.belopp {
+    justify-self: right;
+    border-top-right-radius: 10px;
+    grid-area: belopp;
+}
+
+.underkategori {
+    font-size: smaller;
+    grid-area: kategori;
+}
+
+.huvudkategori {
+    display: none;
+    font-size: x-small;
+    grid-area: ikon;
+}
+
+.new-transaction-btn {
+    color: #F1F1F2;
+}
+
+
+@media (max-width: 500px) {
+    main {
+        margin-top: 0;
+    }
+}
+
+@media (min-width: 501px) and (max-width:768px) {}
+
+@media (min-width:769px) and (max-width: 900px) {
+    .transaction-container {
+        padding: 0.5rem;
+        align-items: center;
+        border-radius: 10px;
+        margin-bottom: 1.5rem;
+        background-color: #3C3F50;
+        gap: 0.5rem;
+        display: grid;
+    }
+}
+
+@media (min-width:901px) {
+    #transactions-list {
+        max-width: 900px;
+        margin: auto;
+    }
+
+    .transaction-container {
+        grid-template-columns: 4rem auto auto 4rem;
+        grid-template-rows: repeat(1, 1fr);
+        grid-template-areas:
+            'ikon mottagare kategori belopp';
+    }
+
+}

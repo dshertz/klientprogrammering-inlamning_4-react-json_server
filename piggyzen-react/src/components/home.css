@@ -1,0 +1,8 @@
+header nav {
+    background: linear-gradient(to top left, #F6CD44, #FF4192);
+    color: #212338;
+}
+
+header nav ul li a {
+    color: #3C3F50;
+}

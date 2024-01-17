@@ -1,0 +1,89 @@
+main {
+    margin-bottom: 6rem;
+}
+
+header nav {
+    border-radius: 10px;
+}
+
+.chart-container {
+    background: #3C3F50;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: #212338 solid 1px;
+    padding: 1rem;
+
+}
+
+.chart-container ul li {
+    color: #F1F1F2;
+}
+
+.chart-container h3 {
+    color: #F1F1F2;
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-areas:
+        'donut-1 donut-2'
+        'donut-3 donut-4'
+        'chart-1 chart-1'
+        'chart-2 chart-2'
+        'chart-3 chart-3'
+        'chart-4 chart-4';
+    align-items: center;
+}
+
+#donuts-container {
+    margin: 3rem 1rem 0 1rem;
+    background: #212338;
+}
+
+#donuts-container .chart-container {
+    background: #212338;
+}
+
+#summary-container {
+    margin: 1rem;
+    background: #212338;
+}
+
+#summary-container {
+    gap: 0.5rem;
+}
+
+#donuts-container section:nth-child(1) {
+    grid-area: donut-1;
+}
+
+#donuts-container section:nth-child(2) {
+    grid-area: donut-2;
+}
+
+#donuts-container section:nth-child(3) {
+    grid-area: donut-3;
+}
+
+#donuts-container section:nth-child(4) {
+    grid-area: donut-4;
+}
+
+#summary-container section:nth-child(1) {
+    grid-area: chart-1;
+}
+
+#summary-container section:nth-child(2) {
+    grid-area: chart-2;
+}
+
+#summary-container section:nth-child(3) {
+    grid-area: chart-3;
+}
+
+#summary-container section:nth-child(4) {
+    grid-area: chart-4;
+}

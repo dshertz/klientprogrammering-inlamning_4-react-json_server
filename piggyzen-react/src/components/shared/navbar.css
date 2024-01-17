@@ -1,0 +1,66 @@
+header nav {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 0.5rem;
+    background: none;
+
+}
+
+header nav ul {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+header nav ul li {
+    padding: 0 0.5rem;
+    display: inline-block;
+}
+
+header nav ul li a {
+    color: #8DC6C6;
+}
+
+header nav ul li:first-child {
+    flex: 1;
+}
+
+header nav ul li #logo-container {
+    align-items: center;
+    display: flex;
+}
+
+header #piggyzen-logo {
+    background: url(../../../src/assets/images/piggy.png) no-repeat center center/contain;
+    height: 2.5rem;
+    width: 2.5rem;
+    display: inline-block;
+}
+
+header h1 {
+    display: inline-block;
+    color: #FAC8C9;
+}
+
+footer nav {
+    position: fixed;
+    bottom: 1rem;
+    left: 5%;
+    width: 90%;
+    background: linear-gradient(to bottom right, #F6CD44, #FF4192);
+    border-radius: 40px;
+}
+
+footer nav ul {
+    align-items: center;
+    display: flex;
+    height: 4rem;
+    justify-content: space-between;
+    background: rgba(141, 140, 140, 0.319);
+    padding: 0 2rem;
+    border-radius: 40px;
+}
+
+footer nav ul li i {
+    color: #F1F1F2;
+}
